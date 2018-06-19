@@ -1,0 +1,8 @@
+{
+  "name": "EatWell",
+  "app_id": "5b2516eb",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
